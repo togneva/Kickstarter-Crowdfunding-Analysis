@@ -3,7 +3,6 @@ This is an analysis of factors contributing to success/fail rates on Kickstarter
 
 ## Overview of Project
 
-<<<<<<< HEAD
 Kickstarter platform helps creators turn their ideas into reality. It’s where creators share new visions for creative work with the communities that will come together to fund them.<sup>[1](#myfootnote1)</sup>
 
 According to Kickstarter website, since launch in 2009, 20 million people have backed a project, $6.3 billion has been pledged, and 212+ thousand projects have been successfully funded.
@@ -68,26 +67,3 @@ While doing analysis we encountered a couple of challenges:
   [1. Kirkstarter website - About Us](https://www.kickstarter.com/about?ref=global-footer)
 
   [2. Kirkstarter website - Stats](https://www.kickstarter.com/help/stats?ref=global-footer)
-
-
-=======
-### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
->>>>>>> 2d63278ee2b7c29d29b1306cf9e997cf6aac178e
